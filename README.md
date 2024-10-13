@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![](https://visitcount.itsvg.in/api?id=jgeofil&label=Views&pretty=false)](https://visitcount.itsvg.in)
+[![View Count](https://visitcount.itsvg.in/api?id=jgeofil&label=Views&pretty=false)](https://visitcount.itsvg.in)
+<img src="https://img.shields.io/github/stars/jgeofil" style="height: 150; cursor: pointer;" draggable="true">
+[![X](https://img.shields.io/twitter/follow/jgeofil?style=flat&logo=x)](https://x.com/jgeofil)
+[![Blog](https://img.shields.io/website?url=https%3A%2F%2Fmlread.me&style=flat&label=Blog)](https://mlread.me)
+
